@@ -13,4 +13,5 @@ Participating in a GameJam? Need a way to add joystick support but don't have ti
 * Default keyboard keys can be configured for non-joystick usage
 
 ## How do I use this?
+* Copy the .unitypackage into your assets folder, and you're good to go.
 * Example scene and scripts show what's available right now.
