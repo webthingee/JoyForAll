@@ -1,7 +1,5 @@
 # JoyForAll
-
-## What is this?
-This is a Unity3D package.
+_Designed for Unity3D_
 
 ## Why use this?
 Participating in a GameJam? Need a way to add joystick support but don't have time to code and test for dozens of possible combinations of controllers. Give JoyForAll a try.
